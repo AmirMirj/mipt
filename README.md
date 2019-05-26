@@ -1,2 +1,3 @@
 # mipt
-deep_learning
+deep_learning 
+osteoarthritis project
